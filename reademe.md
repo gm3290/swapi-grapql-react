@@ -2,6 +2,13 @@
 
 A project that runs a swapi graphql server and a create-react-app app via two separate containers, using Docker Compose.
 
+Used libraries
+
+- [SWAPI GraphQL Wrapper](https://github.com/graphql/swapi-graphql) 
+- [Apollo Client](https://www.apollographql.com/docs/)
+- [Create React APP](https://reactjs.org/docs/create-a-new-react-app.html)
+- [styled components](https://styled-components.com/)
+
 ## Development
 
 ```
